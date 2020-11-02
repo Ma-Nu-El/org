@@ -7,6 +7,3 @@
 [submodule "orgmode.org"]
 	path = orgmode.org
 	url = git@github.com:Ma-Nu-El/orgmode.org.git
-[submodule "orgdemo"]
-	path = orgdemo
-	url = git@github.com:Ma-Nu-El/orgdemo.git
