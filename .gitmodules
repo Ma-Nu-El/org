@@ -10,3 +10,6 @@
 [submodule "orgdemo"]
 	path = orgdemo
 	url = git@github.com:Ma-Nu-El/orgdemo.git
+[submodule "org-plot-test"]
+	path = org-plot-test
+	url = git@github.com:Ma-Nu-El/org-plot-test.git
