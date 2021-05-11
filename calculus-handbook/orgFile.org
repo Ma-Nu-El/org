@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       e5e3bb53-b9e1-49d0-9ac7-5a77d5f534d0
+:END:
+#+TITLE: Org File
+
+#+EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt,twoside,twocolumn]
+
+* Definición
+Sea \(f(x)\) definida en un punto \(x_o\) de \((a,b)\). Se define la derivada de
+\(f(x)\) en \(x=x_o\) como
+
+\[
+f'(x_o)=\lim_{h \to 0}
+\frac
+{f(x_o+h) - f(x_o)}
+{h}
+\]
+siempre que este límite exista.
+También, se puede definir la derivada de otras maneras equivalentes como
+
+\[
+f'(x_o)=\lim_{h \to 0}
+\frac
+{f(x_o+h) - f(x_o)}
+{h}
+\]
+
+* Local variables :noexport:
+  # Local Variables:
+  # ispell-local-dictionary: "espanol"
+  # End:
