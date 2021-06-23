@@ -15,4 +15,7 @@
 	url = git@github.com:Ma-Nu-El/orgdemo.git
 [submodule "calculus-handbook"]
 	path = calculus-handbook
-	url = https://github.com/Ma-Nu-El/calculus-handbook
+	url = git@github.com:Ma-Nu-El/calculus-handbook.git
+[submodule "tikzManual"]
+	path = tikzManual
+	url = git@github.com:Ma-Nu-El/tikzManual.git
