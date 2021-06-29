@@ -19,3 +19,6 @@
 [submodule "tikzManual"]
 	path = tikzManual
 	url = git@github.com:Ma-Nu-El/tikzManual.git
+[submodule "org-mode-R-tutorial"]
+	path = org-mode-R-tutorial
+	url = git@github.com:Ma-Nu-El/org-mode-R-tutorial.git
