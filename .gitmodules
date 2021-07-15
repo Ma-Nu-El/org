@@ -22,3 +22,6 @@
 [submodule "org-mode-R-tutorial"]
 	path = org-mode-R-tutorial
 	url = git@github.com:Ma-Nu-El/org-mode-R-tutorial.git
+[submodule "taskjuggler-example"]
+	path = taskjuggler-example
+	url = git@github.com:Ma-Nu-El/taskjuggler-example.git
