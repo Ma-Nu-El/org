@@ -25,3 +25,6 @@
 [submodule "taskjuggler-example"]
 	path = taskjuggler-example
 	url = git@github.com:Ma-Nu-El/taskjuggler-example.git
+[submodule "org-taskjuggler-example"]
+	path = org-taskjuggler-example
+	url = git@github.com:Ma-Nu-El/org-taskjuggler-example.git
