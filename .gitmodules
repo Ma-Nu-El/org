@@ -28,3 +28,6 @@
 [submodule "org-taskjuggler-example"]
 	path = org-taskjuggler-example
 	url = git@github.com:Ma-Nu-El/org-taskjuggler-example.git
+[submodule "org-pandocked"]
+	path = org-pandocked
+	url = git@github.com:Ma-Nu-El/org-pandocked.git
