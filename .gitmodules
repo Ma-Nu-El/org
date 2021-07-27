@@ -28,3 +28,6 @@
 [submodule "org-ledger-example"]
 	path = org-ledger-example
 	url = git@github.com:Ma-Nu-El/org-ledger-example.git
+[submodule "orgmode.org"]
+	path = orgmode.org
+	url = git@github.com:tecosaur/orgmode.org.git
