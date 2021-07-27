@@ -33,4 +33,4 @@
 	url = git@github.com:tecosaur/orgmode.org.git
 [submodule "orgdemo"]
 	path = orgdemo
-	url = https://gitlab.com/spudlyo/orgdemo.git
+	url = git@github.com:Ma-Nu-El/orgdemo.git
