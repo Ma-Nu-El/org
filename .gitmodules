@@ -31,3 +31,6 @@
 [submodule "orgmode.org"]
 	path = orgmode.org
 	url = git@github.com:tecosaur/orgmode.org.git
+[submodule "orgdemo"]
+	path = orgdemo
+	url = https://gitlab.com/spudlyo/orgdemo.git
