@@ -1,0 +1,5 @@
+*.el
+*.html
+*.tex
+*.pdf
+*.md
