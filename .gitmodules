@@ -34,3 +34,6 @@
 [submodule "orgdemo"]
 	path = orgdemo
 	url = git@github.com:Ma-Nu-El/orgdemo.git
+[submodule "org-mode-R-minimal-document"]
+	path = org-mode-R-minimal-document
+	url = git@github.com:Ma-Nu-El/org-mode-R-minimal-document.git
